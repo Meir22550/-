@@ -1,0 +1,11 @@
+[
+ {"id":"hook",    "say":"Le cache-cache… mais en vrai. Et version jeu vidéo.", "cap":"Le cache-cache… mais EN VRAI. Version JEU VIDÉO."},
+ {"id":"intro",   "say":"Voici, Haïde ènde Sik. Une appli GPS pour jouer dans ta ville, avec tes potes.", "cap":"Voici HIDE & SEEK. Une appli GPS pour jouer dans ta ville, avec tes potes."},
+ {"id":"teams",   "say":"Deux équipes. Les cacheurs se planquent. Les chasseurs les traquent.", "cap":"2 équipes. Les CACHEURS se planquent. Les CHASSEURS les traquent."},
+ {"id":"join",    "say":"Tu rejoins avec un code, la zone de jeu s'affiche sur la carte, et le chrono démarre.", "cap":"Tu rejoins avec un CODE, la zone s'affiche sur la carte, le chrono démarre."},
+ {"id":"goal",    "say":"Trente minutes. S'il reste un seul cacheur libre à la fin, les cacheurs gagnent.", "cap":"30 MINUTES. Un seul cacheur libre à la fin = les cacheurs GAGNENT."},
+ {"id":"capture", "say":"Le chasseur arrive à moins de cinq mètres, il te touche, et appuie sur Capturer. Direction la prison… sauf si un pote vient te libérer.", "cap":"Moins de 5 mètres, il te touche… CAPTURÉ ! Direction la PRISON… sauf si un pote vient te libérer."},
+ {"id":"powers",  "say":"Et pour pimenter : radar, invisibilité, bouclier, et des événements surprises.", "cap":"Et pour pimenter : RADAR, INVISIBILITÉ, BOUCLIER, ÉVÉNEMENTS surprises."},
+ {"id":"zone",    "say":"Tu sors de la zone ? Ta position est révélée à tout le monde.", "cap":"Tu sors de la zone ? Ta position est RÉVÉLÉE."},
+ {"id":"outro",   "say":"Haïde ènde Sik. Bientôt à Ra-a-nana. T'es chaud ?", "cap":"HIDE & SEEK. Bientôt à Ra'anana. T'ES CHAUD ? 🔥"}
+]
